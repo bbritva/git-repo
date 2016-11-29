@@ -1,0 +1,4 @@
+print ("hello world")
+print ("hello everybody")
+print ("zhizn voram")
+print ("by everybody")

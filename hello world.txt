@@ -1,6 +1,6 @@
-print ("hello world")
-print ("hello my dear friend")
-print ("hello my dear girlfriend")
-print ("hello my dear exfriend")
-print ("zhizn voram")
-print ("by everybody")
+print ("hello world");
+print ("hello my dear friend");
+print ("hello my dear girlfriend");
+print ("hello my dear exfriend");
+print ("zhizn voram");
+print ("by everybody");

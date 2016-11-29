@@ -1,4 +1,4 @@
-print ("hello world")
-print ("zhizn voram")
-print ("vecher v hatu")
-print ("by everybody")
+print ("hello world");
+print ("zhizn voram");
+print ("vecher v hatu");
+print ("by everybody");
